@@ -1,2 +1,2 @@
 # Portfolio-MVC-POO
-Développement ma portfolio à l'aide de la structure MVC et programmation orienté objet
+Développement de mon portfolio en utilisant la structure MVC et la programmation orientée objet
